@@ -104,7 +104,7 @@ div.row > div {
     top: 10px;
     box-shadow: 0 7px #1a7940;
 }
-
+/* updating hover effect */
 #refreshbtn:hover{
     cursor: pointer;
     top: 7px;
