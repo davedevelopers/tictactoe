@@ -101,10 +101,16 @@ div.row > div {
     font-weight: bolder;
     border: 2px solid darksalmon;
     border-radius: 10px;
+    top: 10px;
+    box-shadow: 0 7px #1a7940;
 }
-
+/* updating hover effect */
 #refreshbtn:hover{
     cursor: pointer;
+    top: 7px;
+    background-color: pink;
+    color: yellow;
+    
 }
 #result{
     padding: 0.75em;
